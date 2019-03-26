@@ -1,3 +1,4 @@
 <resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">OEWLcqPrRhOff1IZUV24P_veOlttrJKsfUDd4</string>
     <string name="app_name">ReactNativeCIApp</string>
 </resources>
